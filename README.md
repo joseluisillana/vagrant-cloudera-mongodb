@@ -1,36 +1,12 @@
 # Vagrant machine for cloudera installation and MongoDB
 <hr>
-<style>
-#wrapperLOGO {
-  margin-left: 200px;
-}
-#contentLogo {
-  float: right;
-  width: 100%;
-  background-color: #CCF;
-}
-#sidebarLogo {
-  float: left;
-  width: 200px;
-  margin-left: -200px;
-  background-color: #FFA;
-}
-#clearedLogo {
-  clear: both;
-}
-</style>
-<div id="wrapperLOGO">
-  <div id="contentLOGO"><img width="15%" src="/mifoto.jpg" alt="Jose Luis Illana Ruiz" title="Jose Luis Illana Ruiz"</img></div>
-  <div id="sidebarLOGO"><img width="15%" src="/cloudera_hadoop.jpg" alt="Cloudera Hadoop Logo" title="Cloudera Hadoop Logo"</img></div>
-  <div id="sidebarLOGO"><img width="15%" src="/vagrant_logo.jpg" alt="Vagrant Logo" title="Vagrant Logo"</img></div>
-  <div id="clearedLOGO"><img width="15%" src="/mongodb-logo.png" alt="MongoDB Logo" title="MongoDB Logo"</img></div>
-</div>
 <div align="center">
         <img width="15%" src="/mifoto.jpg" alt="Jose Luis Illana Ruiz" title="Jose Luis Illana Ruiz"</img>
         <img width="15%" src="/cloudera_hadoop.jpg" alt="Cloudera Hadoop Logo" title="Cloudera Hadoop Logo"</img>
         <img width="15%" src="/vagrant_logo.jpg" alt="Vagrant Logo" title="Vagrant Logo"</img>
         <img width="15%" src="/mongodb-logo.png" alt="MongoDB Logo" title="MongoDB Logo"</img>
 </div>
+
 ## Tools in this virtual development environment
  
 
