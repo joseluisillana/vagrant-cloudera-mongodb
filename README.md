@@ -1,4 +1,5 @@
-#> Vagrant machine for cloudera installation and MongoDB
+# Vagrant machine for cloudera installation and MongoDB
+<hr>
 <style>
 #wrapperLOGO {
   margin-left: 200px;
