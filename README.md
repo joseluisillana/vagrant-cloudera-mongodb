@@ -1,7 +1,6 @@
 # Vagrant machine for cloudera installation and MongoDB
 <hr>
 <div align="center">
-        <img width="15%" src="/mifoto.jpg" alt="Jose Luis Illana Ruiz" title="Jose Luis Illana Ruiz"</img>
         <img width="15%" src="/cloudera_hadoop.jpg" alt="Cloudera Hadoop Logo" title="Cloudera Hadoop Logo"</img>
         <img width="15%" src="/vagrant_logo.jpg" alt="Vagrant Logo" title="Vagrant Logo"</img>
         <img width="15%" src="/mongodb-logo.png" alt="MongoDB Logo" title="MongoDB Logo"</img>
